@@ -4,7 +4,7 @@ boa noite
 bom dia
 boa tarde
 
-goku
+goku e gohan
 
 luffy
 
