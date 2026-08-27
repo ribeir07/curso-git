@@ -1,2 +1,5 @@
 ribeirinho
-ble
+bleQ
+boa noite
+bom dia
+boa tarde
