@@ -1,14 +1,3 @@
-ribeirinho
-bleQ
-boa noite
-bom dia
-boa tarde
+TÍTULO DO README
 
-goku e gohan
-
-luffy
-
-saitama!
-
-
-nova alteração!!!!
+Aqui neste arquivo README teremos as informações relativas ao nosso projeto.
